@@ -9,5 +9,4 @@ function SumMas(mas) {
 }
 
 let mas = [1, 2, 3, 4]
-console.log(mas[1])
 console.log(SumMas(mas))
